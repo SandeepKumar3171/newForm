@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    color: blue;
+}
+.fieldset{
+    border: 3px solid blue;
+    background-color: aqua;
+   
+}
+legend{
+    font-size: 25px;
+}
+h1{
+   padding-left: 30%;
+   color: green;
+   text-decoration: underline;
+}
+marquee{
+    font-size: 20px;
+}
+
+.sameclass{
+    padding-left: 20%;
+}
+
+
+.firstname{
+    padding-left: 50px;
+}
+
+.department{
+    padding: 63px;
+}
+
+.gender{
+    padding-left: 150px;
+}
+#email{
+    margin-left: 100px;
+    
+}
+.city{
+    padding-left: 50px;
+}
+.state{
+    padding-left: 69px;
+}
+.password{
+    padding-left: 66px;
+}
+.skill{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.question{
+    margin-bottom:20px;
+}
+.hobbies{
+    margin: 20px 0 20px 0;
+
+}
+#submit{
+    background-color: rgb(13, 227, 13);
+    border-radius: 10px;
+    color: white;
+}
+#reset{
+    background-color: blue;
+    color: white;
+    border-radius: 10px;
+    margin-left: 420px;
+}
